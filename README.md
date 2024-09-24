@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baconandmiso&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 
-![baconandmiso's github stats](https://github-readme-stats.vercel.app/api?username=baconandmiso&hide=issuses) 
+![baconandmiso's github stats](https://github-readme-stats.vercel.app/api?username=baconandmiso&hide=issuses&theme=dark) 
 
 ### Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
