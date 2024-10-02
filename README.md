@@ -2,7 +2,7 @@
 [Twitter](https://twitter.com/baconandmiso)  
 [キノえもんのホームページ](https://kinoemon.net)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baconandmiso&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baconandmiso&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![baconandmiso's github stats](https://github-readme-stats.vercel.app/api?username=baconandmiso&hide=issuses&theme=dark) 
 
 ### Languages
