@@ -1,5 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baconandmiso&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![baconandmiso's github stats](https://github-readme-stats.vercel.app/api?username=baconandmiso&hide=issuses&theme=dark) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baconandmiso&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
