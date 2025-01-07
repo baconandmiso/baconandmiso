@@ -1,3 +1,5 @@
+<img alt="banner" src="https://pages.kinoemon.net/assets/image/banner.jpg" />
+
 ## *Hello. I am Kinoemon.*
 I'm from Hokkaido in Japan.
 <a href="https://www.kinoemon.net/">  
